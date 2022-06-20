@@ -240,7 +240,7 @@ IP-адрес (Internet Protocol) — уникальный числовой ид
 16) Уровни OSI.
 
 Сетевая модель OSI имеет семь уровней, иерархически расположенных от большего к меньшему. То есть, самым верхним является седьмой (прикладной), а самым нижним — первый (физический). 
-![alt text][(https://github.com/NikitaTrushinQA/HW-Client-Server-Architecture/blob/main/OSI.jpg)
+![image](https://github.com/NikitaTrushinQA/HW-Client-Server-Architecture/blob/main/OSI.jpg)
 Прикладной уровень
 Прикладной уровень (уровень приложений; англ. application layer) — верхний уровень модели, обеспечивающий взаимодействие пользовательских приложений с сетью:
 
