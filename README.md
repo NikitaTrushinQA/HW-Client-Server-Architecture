@@ -328,3 +328,7 @@ URN - film/435
 Протоколы физического уровня: IEEE 802.15 (Bluetooth), IRDA, EIA RS-232, EIA-422, EIA-423, RS-449, RS-485, DSL, ISDN, SONET/SDH, 802.11 Wi-Fi, Etherloop, GSM Um radio interface, ITU и ITU-T, TransferJet[en], ARINC 818, G.hn/G.9960, Modbus Plus.
 
 17) Хедеры http запросов.
+
+![image](https://github.com/NikitaTrushinQA/HW-Client-Server-Architecture/blob/main/http.jpg)
+
+Заголовки HTTP (англ. HTTP Headers) — это строки в HTTP-сообщении, содержащие разделённую двоеточием пару(ключ: значение).
